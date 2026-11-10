@@ -1,0 +1,12 @@
+# File hasil kompilasi
+*.exe
+*.o
+BilliardGame.exe
+
+# File temporary Dev-C++
+*.layout
+Makefile.win
+
+# File temporary OS
+Thumbs.db
+.DS_Store
