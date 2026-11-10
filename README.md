@@ -3,9 +3,10 @@
 ## Proyek Kelompok Desain dan Pemrograman Berorientasi Objek (DPBO)
 
 Anggota Kelompok:
-Zaki Andriansa - 1313625020
-Mochammad Fadlan - 1313625002
-Ahmad Soleh - 1313625029
+
+- Zaki Andriansa - 1313625020
+- Mochammad Fadlan - 1313625002
+- Ahmad Soleh - 1313625029
 
 ---
 
